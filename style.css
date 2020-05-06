@@ -1,0 +1,67 @@
+    body {
+        background: #ffffff;
+    }
+    
+    #banner {
+        /*width para a largura do elemento*/
+        width: 100%;
+    }
+    
+    .principal {
+        background: #A4D3EE;
+        padding: 30px;
+    }
+    
+    .titulo-principal {
+        color: #000000;
+        background-color: #FFFFFF;
+        text-align: center;
+        height: 100px;
+        border: 20px solid #00008B;
+        padding: 20px;
+        padding-top: 50px;
+        /*padding-top: margem de cima;*/
+        margin: 5px;
+        /*espaço em toda volta*/
+    }
+    
+    .titulo-centralizado {
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    p {
+        color: #000000;
+    }
+    
+    #mission {
+        /*chama id com #*/
+        font-size: 20px;
+        text-align: center;
+        color: #27408B;
+    }
+    
+    em strong {
+        text-shadow: #000000;
+    }
+    
+    .itens {
+        /*chama class com ponto*/
+        font-style: italic;
+    }
+    
+    .beneficios {
+        background: #FFFFFF;
+        padding: 20px;
+    }
+    
+    ul {
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+    
+    .imagembeneficio {
+        width: 50%;
+    }
